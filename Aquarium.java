@@ -160,8 +160,8 @@ public class Aquarium {
         drawMinnow(painter, -115, -115, -40, -130, -110, -125, 15, 20, 65, Color.GREEN);
         drawMinnow(painter, -175, -90, -115, -105, -170, -100, 15, 15, 50, Color.BLUE);
         drawMinnow(painter, -90, -90, -15, -105, -85, -100, 15, 20, 65, Color.GREEN);
-        drawMinnow(painter, -60, -60, 0, -75, -55, -70, 15, 15, 50, Color.BLUE); //Blue Minnow
+        drawMinnow(painter, -60, -60, 0, -75, -55, -70, 15, 15, 50, Color.BLUE);
         drawMinnow(painter, -30, -30, 45, -45, -25, -40, 15, 20, 65, Color.GREEN);
-        drawMinnow(painter, -150, -150, -90, -165, -145, -160, 15, 15, 50, Color.BLUE); //Blue Minnow
+        drawMinnow(painter, 15, -90, 75, -105, 20, -100, 15, 15, 50, Color.BLUE); 
     }
 }
